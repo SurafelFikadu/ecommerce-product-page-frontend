@@ -89,6 +89,11 @@ nav p:hover {
     width: 50px;
 }
 
+.header-right .profile img:hover {
+    border: 3px solid var(--orange);
+    border-radius: 50%;
+}
+
 button {
     cursor: pointer;
 }
